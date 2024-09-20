@@ -10,6 +10,14 @@ Welcome to the Bank Account Project! This project is a demonstration of my codin
 - Validate user input to ensure accuracy and prevent errors.
 - Check account balances to keep track of available funds.
 - Process deposits and withdrawals accurately and securely.
+working on:
+Account Management
+Convenient Mobile Deposits
+Card Management
+Wallet Management
+Locate nearby ATMs with ease
+Money Transfer
+Live currency conversion
 
 ## Project Structure
 
